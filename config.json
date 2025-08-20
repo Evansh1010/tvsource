@@ -1,7 +1,33 @@
 {
+  "sites": [
+    {
+      "key": "欧歌",
+      "name": "欧歌",
+      "type": 3,
+      "api": "http://tv.nxog.top/m"
+    },
+    {
+      "key": "饭太硬",
+      "name": "饭太硬",
+      "type": 3,
+      "api": "http://www.饭太硬.com/tv"
+    },
+    {
+      "key": "饭太硬备用",
+      "name": "饭太硬（备用）",
+      "type": 3,
+      "api": "https://gitee.com/xxoooo/fan/raw/master/in.bmp"
+    },
+    {
+      "key": "肥猫",
+      "name": "肥猫",
+      "type": 3,
+      "api": "http://hello.肥猫.com"
+    }
+  ],
   "lives": [
     {
-      "name": "澜露TV",
+      "name": "澜露",
       "type": 0,
       "url": "http://txt.kesug.com/users/hulanlu.txt"
     },
