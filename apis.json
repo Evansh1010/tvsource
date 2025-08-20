@@ -1,13 +1,14 @@
 {
   "lives": [
     {
-      "name": "大直播源",  // 显示的大昵称
+      "name": "澜露",
       "type": 0,
-      "url": "http://txt.kesug.com/users/hulanlu.txt",  // 直播源
-      "sub_sources": [
-        { "name": "澜露", "url": "http://txt.kesug.com/users/hulanlu.txt" },
-        { "name": "Mursor", "url": "https://sub.ottiptv.cc/iptv.m3u" }
-      ]
+      "url": "http://txt.kesug.com/users/hulanlu.txt"
+    },
+    {
+      "name": "Mursor",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/iptv.m3u"
     }
   ]
 }
