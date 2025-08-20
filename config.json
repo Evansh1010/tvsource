@@ -1,28 +1,32 @@
 {
-  "urls": [
+  "sites": [
     {
-      "url": "http://tv.nxog.top/m",
-      "name": "欧歌"
+      "name": "欧歌",
+      "url": "http://tv.nxog.top/m"
     },
     {
-      "url": "http://www.饭太硬.com/tv",
-      "name": "饭太硬"
+      "name": "饭太硬",
+      "url": "http://www.饭太硬.com/tv"
     },
     {
-      "url": "https://gitee.com/xxoooo/fan/raw/master/in.bmp",
-      "name": "饭太硬（备用）"
+      "name": "饭太硬（备用）",
+      "url": "https://gitee.com/xxoooo/fan/raw/master/in.bmp"
     },
     {
-      "url": "http://hello.肥猫.com",
-      "name": "肥猫"
+      "name": "肥猫",
+      "url": "http://hello.肥猫.com"
+    }
+  ],
+  "lives": [
+    {
+      "name": "澜露",
+      "type": 0,
+      "url": "http://txt.kesug.com/users/hulanlu.txt"
     },
     {
-      "url": "http://txt.kesug.com/users/hulanlu.txt",
-      "name": "澜露"
-    },
-    {
-      "url": "https://sub.ottiptv.cc/iptv.m3u",
-      "name": "Mursor"
+      "name": "Mursor",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/iptv.m3u"
     }
   ]
 }
