@@ -1,20 +1,12 @@
 {
-  "urls": [
+  "lives": [
     {
-      "url": "http://tv.nxog.top/m",
-      "name": "欧歌"
-    },
-    {
-      "url": "http://www.饭太硬.com/tv",
-      "name": "饭太硬"
-    },
-    {
-      "url": "https://gitee.com/xxoooo/fan/raw/master/in.bmp",
-      "name": "饭太硬（备用）"
-    },
-    {
-      "url": "http://hello.肥猫.com",
-      "name": "肥猫"
+      "name": "大直播源",  
+      "type": 0,  
+      "urls": [
+        { "name": "澜露", "url": "http://txt.kesug.com/users/hulanlu.txt" },
+        { "name": "Mursor", "url": "https://sub.ottiptv.cc/iptv.m3u" }
+      ]
     }
   ]
 }
