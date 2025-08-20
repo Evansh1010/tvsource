@@ -10,9 +10,5 @@
       "type": 0,
       "url": "http://txt.kesug.com/users/hulanlu.txt"
     }
-  ],
-  "epg": {
-    "url": "https://epg.112114.xyz/pp.xml",
-    "name": "EPG 节目单"
-  }
+  ]
 }
