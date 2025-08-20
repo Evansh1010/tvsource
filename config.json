@@ -1,20 +1,20 @@
 {
-  "sites": [
+  "urls": [
     {
-      "name": "欧歌",
-      "url": "http://tv.nxog.top/m"
+      "url": "http://tv.nxog.top/m",
+      "name": "欧歌"
     },
     {
-      "name": "饭太硬",
-      "url": "http://www.饭太硬.com/tv"
+      "url": "http://www.饭太硬.com/tv",
+      "name": "饭太硬"
     },
     {
-      "name": "饭太硬（备用）",
-      "url": "https://gitee.com/xxoooo/fan/raw/master/in.bmp"
+      "url": "https://gitee.com/xxoooo/fan/raw/master/in.bmp",
+      "name": "饭太硬（备用）"
     },
     {
-      "name": "肥猫",
-      "url": "http://hello.肥猫.com"
+      "url": "http://hello.肥猫.com",
+      "name": "肥猫"
     }
   ],
   "lives": [
