@@ -1,6 +1,6 @@
 {
   "spider": "https://tvsource-6n8.pages.dev/abc.jar",
-
+  
   "lives": [
     {
       "name": "Mursor",
@@ -13,14 +13,12 @@
       "url": "http://txt.kesug.com/users/hulanlu.txt"
     }
   ],
+
   "sites": [
     {
       "key": "豆豆",
       "name": "🌈热播┃推荐（长按图片也可以聚合搜索）",
       "type": 3,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
       "api": "csp_Douban",
       "searchable": 0
     },
@@ -613,20 +611,6 @@
       "filterable": 0
     },
     {
-      "key": "56动漫",
-      "name": "56｜动漫",
-      "type": 3,
-      "api": "https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js",
-      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/anime/js/56DM.js"
-    },
-    {
-      "key": "NT动漫",
-      "name": "NT｜动漫",
-      "type": 3,
-      "api": "https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js",
-      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/anime/js/NTDM.js"
-    },
-    {
       "key": "曼波动漫",
       "name": "曼波｜动漫",
       "type": 3,
@@ -641,33 +625,11 @@
       }
     },
     {
-      "key": "多多动漫",
-      "name": "多多｜动漫",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "",
-        "site": "https://app.cf4k.xyz/1.txt",
-        "dataKey": "qqqqqqqqqqqqqqqq",
-        "dataIv": "qqqqqqqqqqqqqqqq",
-        "deviceId": "",
-        "version": ""
-      }
-    },
-    {
       "key": "樱花动漫",
       "name": "樱花｜动漫",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "https://gitee.com/PizazzXS/another-d/raw/master/anime/json/YHDM.json"
-    },
-    {
-      "key": "动画片",
-      "name": "动画片｜动漫",
-      "type": 3,
-      "api": "https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js",
-      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/anime/js/DHPDQ.js"
     },
     {
       "key": "路漫漫",
@@ -677,36 +639,18 @@
       "ext": "https://gitee.com/PizazzXS/another-d/raw/master/anime/js/LMM.js"
     },
     {
-      "key": "去看吧",
-      "name": "去看吧｜动漫",
-      "type": 3,
-      "api": "https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js",
-      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/anime/js/QKB.js"
-    },
-    {
       "key": "异世界",
       "name": "异世界｜动漫",
       "type": 3,
       "api": "https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js",
       "ext": "https://gitee.com/PizazzXS/another-d/raw/master/anime/js/YSJ.js"
-    },
+    }, 
     {
       "key": "荐片",
       "name": "荐片｜磁力",
       "api": "csp_Jianpian",
-      "type": 3
-    },
-    {
-      "key": "七味",
-      "name": "七味｜磁力",
       "type": 3,
-      "api": "csp_QnMp4",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "url": "https://www.pkmp4.xyz,https://www.qwnull.com,https://www.qwmkv.com,https://www.qwfilm.com,https://www.qnmp4.com,https://www.qnnull.com,https://www.qnhot.com"
-      }
+      "ext": "https://ij1men.slsw6.com"
     },
     {
       "key": "80S",
@@ -737,26 +681,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitee.com/PizazzXS/another-d/raw/master/magnet/json/DYG.json"
-    },
-    {
-      "key": "狐狸君",
-      "name": "狐狸君｜磁力",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "changeable": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/magnet/json/HLJ.json"
-    },
-    {
-      "key": "电影天堂",
-      "name": "电影天堂｜磁力",
-      "type": 3,
-      "api": "csp_DyGod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "星芽短剧",
@@ -1372,6 +1296,4 @@
     "static-mozai.4gtv.tv"
   ]
 }
-
    
-
