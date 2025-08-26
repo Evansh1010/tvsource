@@ -1,5 +1,5 @@
 {
-  "spider": "https://tvsource-6n8.pages.dev/abc.jar",
+  "spider": "https://cdn.jsdelivr.net/gh/Evansh1010/tvsource@main/abc.jar",
   
   "lives": [
     {
@@ -1291,3 +1291,4 @@
   ]
 }
    
+
