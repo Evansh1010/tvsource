@@ -2,7 +2,8 @@
   "urls": [
     {
       "name": "My TV",
-      "url": "https://tvsource-6n8.pages.dev/ss.json"
+      "url": "https://cdn.jsdelivr.net/gh/Evansh1010/tvsource@main/ss.json"
     }
   ]
 }
+
