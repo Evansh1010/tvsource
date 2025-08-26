@@ -844,12 +844,6 @@
       "ext": { "json": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/json/高中课堂.json", "cookie": "" }
     },
     {
-      "key": "哔哩直播",
-      "name": "🅱️直播",
-      "type": 3,
-      "api": "https://gitee.com/PizazzXS/another-d/raw/master/webcast/py/BLZB.py"
-    },
-    {
       "key": "急救教学",
       "name": "急救｜教学",
       "type": 3,
