@@ -1,5 +1,5 @@
 {
-  "spider": "https://raw.githubusercontent.com/Evansh1010/tvsource/refs/heads/main/abc.jar",
+  "spider": "https://github.com/Evansh1010/tvsource/raw/main/abc.jar",
   
   "lives": [
     {
@@ -509,15 +509,6 @@
       "name": "鸭梨｜影视",
       "type": 3,
       "api": "csp_KmeiJu"
-    },
-    {
-      "key": "csp_baibai",
-      "name": "白白┃影视",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 0,
-      "api": "csp_SuBaiBai",
-      "ext": "https://www.subaibai.com"
     },
     {
       "key": "低端影视",
@@ -1291,7 +1282,3 @@
   ]
 }
    
-
-
-
-
