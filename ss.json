@@ -1,5 +1,5 @@
 {
-  "spider": "https://github.com/Evansh1010/tvsource/raw/main/abc.jar",
+  "spider": "https://gitee.com/evsh/tvjs/raw/master/abc.jar",
   
   "lives": [
     {
@@ -1282,3 +1282,4 @@
   ]
 }
    
+
