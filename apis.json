@@ -1,6 +1,10 @@
 {
   "urls": [
     {
+      "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/config.bin",
+      "name": "游魂网络"
+    },
+    {
       "url": "http://www.饭太硬.com/tv",
       "name": "饭太硬"
     },
@@ -23,10 +27,6 @@
     {
       "url": "https://9877.kstore.space/AnotherD/api.json",
       "name": "潇洒"
-    },
-    {
-      "url": "https://codeberg.org/hulanlu/hulanlu/raw/branch/main/nvtuanrewu.json",
-      "name": "澜露"
     }
   ]
 }
