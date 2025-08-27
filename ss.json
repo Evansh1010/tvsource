@@ -5,12 +5,17 @@
     {
       "name": "Mursor",
       "type": 0,
-      "url": "https://sub.ottiptv.cc/iptv.m3u"
+      "url": "https://sub.ottiptv.cc/iptv.m3u",
+      "epg": "http://epg.51zmt.top:8000/e.xml",
+      "timeout": 10,
+      "playerType": 2
     },
     {
       "name": "澜露",
       "type": 0,
-      "url": "http://txt.kesug.com/users/hulanlu.txt"
+      "url": "http://txt.kesug.com/users/hulanlu.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
 
@@ -1282,4 +1287,3 @@
   ]
 }
    
-
