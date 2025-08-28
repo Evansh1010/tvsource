@@ -2,27 +2,31 @@
   "urls": [
     {
       "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/config.bin",
-      "name": "游魂网络"
+      "name": "游魂 1"
+    },
+    {
+      "url": "https://www.iyouhun.com/tv/duo",
+      "name": "游魂 2"
     },
     {
       "url": "http://www.饭太硬.com/tv",
-      "name": "饭太硬"
+      "name": "饭太硬 1"
     },
     {
       "url": "https://gitee.com/xxoooo/fan/raw/master/in.bmp",
-      "name": "饭太硬（备用）"
+      "name": "饭太硬 2"
     },
     {
-      "url": "https://vip.nxog.top",
-      "name": "欧歌"
-    },
-    {
-      "url": "http://tv.nxog.top/m",
-      "name": "欧歌（备用）"
+      "url": "http://肥猫.com",
+      "name": "肥猫 1"
     },
     {
       "url": "http://hello.肥猫.com",
-      "name": "肥猫"
+      "name": "肥猫 2"
+    },
+    {
+      "url": "http://tv.nxog.top/m",
+      "name": "欧歌"
     },
     {
       "url": "https://9877.kstore.space/AnotherD/api.json",
